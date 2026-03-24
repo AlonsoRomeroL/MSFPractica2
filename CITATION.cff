@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica: Sistema Cardiovascular'
+message: 'Modelado De Sistemas Fisiologicos / Ingenieria Biomedica '
+type: software
+authors:
+  - given-names: 'Alonso '
+    family-names: Romero Landa
+    email: l21212749@tectijuana.edu.mx
+    affiliation: 'Tecnologico Nacional De Mexico '
+identifiers:
+  - type: url
+    value: 'https://github.com/AlonsoRomeroL/MSFPractica2'
+    description: Repositorio Github
+repository-code: 'https://github.com/AlonsoRomeroL/MSFPractica2'
+keywords:
+  - Sistema cardiovascular
+  - Cicruito RLC
+  - Controlador PID
+  - Modelo Matematico
+  - 'Simulaciones Numericas '
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-03-23'
