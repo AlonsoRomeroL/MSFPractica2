@@ -2,9 +2,9 @@
 
 # Práctica: Sistema cardiovascular
 
-## Información de la estudiante
+## Información del estudiante
 
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Romero Landa Alonso Alejandro \[21212749]; L21212749@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
